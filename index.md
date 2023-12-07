@@ -10,10 +10,10 @@ with loops while using functions like PromptForInt and RectangleArea to create p
 
 *Lab 9 Part, 1 
 
-    My second favorite lab offered an engaging exploration of doubles, showing off the importance of handling floating-point values accurately in programming. It also involves the handling of vectors to 
+   My second favorite lab offered an engaging exploration of doubles, showing off the importance of handling floating-point values accurately in programming. It also involves the handling of vectors to 
 calculate averages using functions like JudgeAverage.
 
 *Lab 12 Part, 1
 
-    My most challenging and favorite lab brought together my year-long learning in coding, vectors, image handling, and precision with floating-point values. Showcasing my skills in working with geometric 
+   My most challenging and favorite lab brought together my year-long learning in coding, vectors, image handling, and precision with floating-point values. Showcasing my skills in working with geometric 
 structures and mathematical functions like sine, it resulted in visually stunning animated gradients.
